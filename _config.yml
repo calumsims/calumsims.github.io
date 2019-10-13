@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: K Punk 2
+name: K punk 2
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A website
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/calumsims/calumsims.github.io/master/images/logo.jpg
 
 #
 # Flags below are optional
