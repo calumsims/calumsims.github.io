@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Juice WRLD and Psychopolitics (A Short History of Decay)
 ‘I’m tired of getting high its exhausting, I heard it gets better with time.’ - Juice WRLD, Ring Ring
