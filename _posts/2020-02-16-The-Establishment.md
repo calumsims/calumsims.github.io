@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Abstract
 ‘The Establishment’ is an abstract institution. Its purpose is to organise a population into a coherent whole. The way it does this is by shaping their minds, disseminating ideas which make them think and act in reliable ways. Owen Jones’ book, The Establishment, shows how the ideological bent of the UK establishment has shifted away from statism and towards ‘free market absolutism’. The effect of this has been to alter the ideology of the populace. I sketch his account very briefly, in order to sum up the ways the establishment operates to control the minds of its subjects (and why it does it). Then I look at the odd effect that the current Establishment ideology has on our minds, and think about how to change it.
