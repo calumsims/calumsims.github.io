@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The privatisation of stress
 Mark Fisher talks about the privatisation of stress. Stress has become an individual phenomenon, not a social one: people are encouraged to look first at themselves, at their pasts and their chemical balances, before mounting anything like a critique on the social causes of such mental illnesses as anxiety and depression and ‘lesser’ mental maladies like stress. However, there are clearly good grounds for such a critique, for two reasons. 
