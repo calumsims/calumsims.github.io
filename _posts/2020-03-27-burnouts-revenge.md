@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Introduction
 According to Byung-Chul Han, we (in the West) have moved from a ‘control society’ to an ‘achievement society’. We have switched out the imperative ‘you should’ with the much more encouraging ‘you can’. However, whilst this might look like it frees us, it actually doesn’t, because by telling us ‘you can’ and then telling us the range of things we ‘can’ do, ‘achievement society’ creates even more pressure to conform. The price of failure? ‘Burnout’.
