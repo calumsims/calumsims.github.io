@@ -1,0 +1,12 @@
+---
+published: false
+---
+### let yourself go
+
+Yesterday, we spoke of burnout. I said that the way to avoid it was to cultivate a practice of quiet, connected contemplation. If anyone has tried this, they’ll know how quickly the noisy self - the ‘chattering monkey brain’ - breaks through, tells you to check your phone, to have a biscuit or a spliff. If you’re not as ‘free’ as you’d like, its probably you that’s getting in the way. This lends weight to society’s myth: frantic self-expression is what you want, and society is just giving it to you. Right?
+
+Wrong. It might be something you want to some extent, but the problem is that your wants are largely defined by the things around you. Its like this. People get hungry. In an ideal world, most people will satisfy that hunger with a mix of healthy and pleasurable foods. Their needs will be met, and they will be satisfied. Now imagine those people don’t live in an ideal world. Instead, they live in a metal box filled with nothing but biscuits. They’re gonna get hungry, so inevitably they’re gonna eat the biscuits; but that doesn’t mean that, in their ‘heart of hearts’, people just wanted to eat biscuits all along.
+
+In a world of instant gratification, it seems that our willpowers are being tested to no small extent: everything is always in front of us, and we have to choose to pull back.
+For Lao Tzu, pulling back consists in following ‘The Way’. 'The Way' is basically the way of life: you can’t say what it is, but you know what it is, and you know its there, to be followed. Its easy to follow the way, says Lao: its just that people prefer distractions. ‘The great way is easy, yet people prefer by-paths’, he says. ‘The court is corrupt…the granaries are empty…yet there are those dressed in fineries…possessed of too much wealth. This is known as taking the lead in robbery. Far is this from the way.’ (53)
+On this reading, failing to contemplate and failing to follow ‘the way’ are closely connected. The way consists, largely, in non-contention, but as we saw yesterday, non-contention is hard to justify in an achievement society. People distract themselves with frenzied activity, become managers or bloggers, desperate to fill the void created by the superego (which is necessarily always unfillable) and incapable of exercising control over it. But ‘deep boredom’, said Walter Benjamin, ‘Is the dream-bird which hatches the egg of experience’. I suggest that we sit on it.
