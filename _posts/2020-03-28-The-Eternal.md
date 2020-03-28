@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### let yourself go
+### let yourself go (400 words)
 
 Yesterday, we spoke of burnout. I said that the way to avoid it was to cultivate a practice of quiet, connected contemplation. If anyone has tried this, they’ll know how quickly the noisy self - the ‘chattering monkey brain’ - breaks through, tells you to check your phone, to have a biscuit or a spliff. If you’re not as ‘free’ as you’d like, its probably you that’s getting in the way. This lends weight to society’s myth: frantic self-expression is what you want, and society is just giving it to you. Right?
 
