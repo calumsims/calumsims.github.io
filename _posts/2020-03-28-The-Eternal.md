@@ -1,8 +1,7 @@
 ---
-published: true
+published: false
 ---
-### let yourself go (400 words)
-
+### let yourself go
 Yesterday, we spoke of burnout. I said that the way to avoid it was to cultivate a practice of quiet, connected contemplation. If anyone has tried this, they’ll know how quickly the noisy self - the ‘chattering monkey brain’ - breaks through, tells you to check your phone, to have a biscuit or a spliff. If you’re not as ‘free’ as you’d like, its probably you that’s getting in the way. This lends weight to society’s myth: frantic self-expression is what you want, and society is just giving it to you. Right?
 
 Wrong. It might be something you want to some extent, but the problem is that your wants are largely defined by the things around you. Its like this. People get hungry. In an ideal world, most people will satisfy that hunger with a mix of healthy and pleasurable foods. Their needs will be met, and they will be satisfied. Now imagine those people don’t live in an ideal world. Instead, they live in a metal box filled with nothing but biscuits. They’re gonna get hungry, so inevitably they’re gonna eat the biscuits; but that doesn’t mean that, in their ‘heart of hearts’, people just wanted to eat biscuits all along.
