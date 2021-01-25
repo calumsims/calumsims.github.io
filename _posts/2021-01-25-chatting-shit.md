@@ -1,6 +1,9 @@
 ---
 published: false
 ---
+### chatting shit
+
+
 I have finished. After eight long months, I have finished: the proposal is submitted. I feel a mixture of relief and loss. In this way, it reminds me of my feelings after a good shit: glad to have finished it, to have made something concrete and external, but a little disappointed that the experience is over, a little distraught at the possibility that, perhaps, I might never be able to make something quite that good again.
 
 In many ways, speech and shit are very similar: they both involve taking something from the inside and putting it outside. At school, my friends and I lived by the saying, ‘poo’s funny’. When asked why we were laughing, that was our response. This, we contended, was the basic fact upon which all other facts are based. Psychologists think that the way we relate to our shit says a lot about how we relate to the world, because shit is ‘an extension of man in a medium other than him’ - it is a definite record of man’s impact upon the world, offensively, irrevocably there. 
