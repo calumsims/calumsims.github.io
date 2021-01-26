@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 'the reality star who changed britain'
 Today I’ve been watching the Jade Goody documentary on Channel 4. It’s a fascinating insight into a relatively novel social phenomenon. Jade, like Paris Hilton, Rylan Clarke-Neal, or a large number of surveyed school-age children, wanted to be famous not for anything, but simply to be famous. Why has this new social arrangement popped up, and what can it tell us about contemporary culture?
