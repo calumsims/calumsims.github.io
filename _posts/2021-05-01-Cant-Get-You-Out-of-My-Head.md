@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## To what extent is your love all i think about?
 Adam Curtis’ recent documentary is a headfuck. Its opening claim is bold:
